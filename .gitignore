@@ -1,0 +1,4 @@
+# ignore everything in target
+target/*
+# but not the WAR
+!target/war-demo.war
